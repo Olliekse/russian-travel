@@ -1,0 +1,10 @@
+.cover__background {
+    width: 100%;
+    object-fit: cover;
+    text-decoration: none;
+    z-index: 0;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+
+}

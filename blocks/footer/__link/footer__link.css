@@ -1,0 +1,22 @@
+.footer__link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: "InterRegular", sans-serif;
+    transition: opacity 0.5s 0.1s ease;
+    margin-right: 18px;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+  }
+
+
+@media screen and (max-width: 320px) {
+.footer__link {
+    margin: 0;
+    display: block;
+    font-size: 24px;
+    line-height: 100%;
+    padding: 32px 0 0;
+    }
+  }
