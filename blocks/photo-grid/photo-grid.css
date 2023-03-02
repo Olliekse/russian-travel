@@ -1,4 +1,5 @@
 .photo-grid {
+    list-style: none;
     margin: auto;
     padding-top: 92px;
     max-width: 1184px;
@@ -20,14 +21,16 @@
   
   @media screen and (max-width: 768px){
     .photo-grid {
+        padding-top: 88px;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
         grid-gap: 16px;
     }
   }
   
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 540px){
     .photo-grid {
+      padding-top: 64px;
         grid-template-columns: auto;
         grid-template-rows: auto;
         grid-gap: 12px;

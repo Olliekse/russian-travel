@@ -1,23 +1,32 @@
-# Проект: Путешествие по России
+# Russia Travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+'Russia Travel' is a adaptive single-page website built using BEM methodology with a responsive design.
 
-**Интро**
+## Description
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+The page features:
 
-**Figma**
+- images, fonts, both flex and grid layouts;
+- a file structure in accordance with BEM methodology;
+- links;
+- font-smoothing and text-size adjust properties;
+- optimizeLegibility text-rendering;
+- 1280px, 1024px, 768px and 320px resolution major breakpoints, with minor breakpoints inbetween.  
+- hover effects.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+## Envisaged improvements
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+Improvements that can be made to the webpage include:
 
-Удачи!
+- enable more fonts;
+- embed videos;
+- ensure cross-browser compatibility across the whole webpage;
+- add a form that visitors can fill in and submit;
+- create additional hover effects, for example, with images.
+- optimise the minor breakpoints so the code as a whole is lighter
+- create major breakpoints for all main smart phone, tablet and PC resolution (up to full HD)
+
+### Github page link
+
+https://github.com/Olliekse/russian-travel
