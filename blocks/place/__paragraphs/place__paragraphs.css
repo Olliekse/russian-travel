@@ -1,6 +1,9 @@
 .place__paragraphs {
     grid-area: paragraph;
+    display: flex;
+    flex-direction: column;
     margin: 0;
+    row-gap: 26px;
   }
 
   @media screen and (max-width: 540px){

@@ -1,5 +1,5 @@
 @font-face { 
-    font-family: "InterRegular";
+    font-family: "Inter";
     src: url("../vendor/fonts/InterRegular/InterRegular.eot");
     src: url("../vendor/fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
     url("..vendor/fonts/InterRegular/InterRegular.woff") format("woff"),
@@ -9,7 +9,7 @@
 }
 
 @font-face { 
-    font-family: "InterBold";
+    font-family: "Inter";
     src: url("../vendor/fonts/InterBold/InterBold.eot");
     src: url("../vendor/fonts/InterBold/InterBold.eot?#iefix")format("embedded-opentype"),
     url("../vendor/fonts/InterBold/InterBold.woff") format("woff"),
@@ -19,7 +19,7 @@
 }
 
 @font-face { 
-    font-family: "InterBlack";
+    font-family: "Inter";
     src: url("../vendor/fonts/InterBlack/InterBlack.eot");
     src: url("../vendor/fonts/InterBlack/InterBlack.eot?#iefix")format("embedded-opentype"),
     url("../vendor/fonts/InterBlack/InterBlack.woff") format("woff"),

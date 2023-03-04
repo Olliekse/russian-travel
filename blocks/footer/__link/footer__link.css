@@ -1,7 +1,9 @@
 .footer__link {
     color: #FFFFFF;
     text-decoration: none;
-    font-family: "InterRegular", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 112%;
     transition: opacity 0.5s 0.1s ease;
     margin-right: 18px;
 }
