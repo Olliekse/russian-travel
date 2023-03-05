@@ -7,19 +7,19 @@
 
 @media screen and (max-width: 1024px) {
   .place__image {
-    width: 440px
+    width: 440px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__image {
-    width: 340px
+    width: 340px;
   }
 }
 
 @media screen and (max-width: 540px) {
   .place__image {
     padding-top: 32px;
-    width: 320px
+    width: 320px;
   }
 }
