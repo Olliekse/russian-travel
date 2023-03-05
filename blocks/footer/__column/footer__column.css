@@ -1,9 +1,7 @@
 @media screen and (max-width: 540px){
-    .footer__column{
-      margin-top: 32px;
-    }
-    .footer__column:last-child{
-      margin-bottom: 0;
+   .footer__column {
+    padding: 0;
+    margin: 0;
     }
   }
   

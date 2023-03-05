@@ -29,4 +29,4 @@ Improvements that can be made to the webpage include:
 
 ### Github page link
 
-https://github.com/Olliekse/russian-travel
+https://olliekse.github.io/

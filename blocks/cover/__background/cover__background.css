@@ -1,5 +1,5 @@
 .cover__background {
-    min-height: 594px;
+    min-height: 740px;
     margin: 0 auto;
     max-width: 1184px;
     display: flex;
@@ -36,14 +36,14 @@
 @media screen and (max-width: 1024px){
     .cover__background {
         width: 100%;
-        min-height: 562px;
+        min-height: 640px;
         }
       }
 
 @media screen and (max-width: 786px){
     .cover__background {
         width: 100%;
-        min-height: 500px;
+        min-height: 480px;
         }
       }
 
@@ -57,6 +57,6 @@
 @media screen and (max-width: 320px) {
     .cover__background {
         width: 100%;
-        min-height: 216px;
+        min-height: 200px;
         }
     }
