@@ -1,7 +1,7 @@
 .place {
     display: grid;
     margin: 0 auto;
-    grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
+    grid-template-columns: minmax(440px, 1fr) minmax(456px, 1fr);
     column-gap: 40px;
     width: 100%;
     grid-template-areas:
@@ -21,19 +21,19 @@
 }
 @media screen and (max-width: 768px) {
   .place {
-    grid-template-columns: 1fr 1fr;
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 400px){
   .place {
     display: block;
+    margin: 0;
   }
 }
 @media screen and (max-width: 320px){
   .place {
-    width: 310px;
+    max-width: 320px;
   }
 }
 

@@ -2,7 +2,7 @@
     font-family: "Inter";
     src: url("../vendor/fonts/InterRegular/InterRegular.eot");
     src: url("../vendor/fonts/InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
-    url("..vendor/fonts/InterRegular/InterRegular.woff") format("woff"),
+    url("../vendor/fonts/InterRegular/InterRegular.woff") format("woff"),
     url("../vendor/fonts/InterRegular/InterRegular.ttf") format("truetype");
     font-style: normal;
     font-weight: 400;

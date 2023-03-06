@@ -42,21 +42,18 @@
 
 @media screen and (max-width: 786px){
     .cover__background {
-        width: 100%;
         min-height: 480px;
         }
       }
 
 @media screen and (max-width: 540px){
     .cover__background {
-        width: 100%;
         min-height: 272px;
         }
       }
 
 @media screen and (max-width: 320px) {
     .cover__background {
-        width: 100%;
         min-height: 200px;
         }
     }

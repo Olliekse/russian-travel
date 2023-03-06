@@ -4,9 +4,17 @@
     flex-direction: column;
     margin: 0;
     row-gap: 26px;
+    padding: 0;
   }
 
-  @media screen and (max-width: 540px){
+  @media screen and (max-width: 768px){
+    .place__paragraphs {
+      row-gap: 25px;
+  }
+  }
+  
+  
+  @media screen and (max-width: 600px){
   .place__paragraphs {
     margin: 25px 16px 0;
   }

@@ -11,11 +11,11 @@
   .place__title {
     font-size: 42px;
     line-height: 110%;
-    max-width: 330px;
+    max-width: 340px;
   }
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 600px){
   .place__title {
     margin-bottom: 32px;
     margin-left: 16px;
